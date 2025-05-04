@@ -13,6 +13,8 @@ Let's connect and create something amazing! 🚀✨
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=0366d6&center=true&vCenter=true&random=false&width=450&height=100&lines=Full+Stack+Web+Developer;Graphic+Designer;UI+%2F+UX)](https://git.io/typing-svg)
 
+## ⚙️ Tech Stack
+
 ```Programming Languages```
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,cpp,c&theme=light)](https://skills.thijs.gg)
