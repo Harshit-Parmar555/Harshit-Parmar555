@@ -1,21 +1,77 @@
-<h1 align="center">Hi 👋, I'm Harshit Parmar</h1>
-<h3 align="center">Full Stack Mern Developer • UI Designer • Graphic Designer</h3>
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWExbjU1bWp3bnJvZDZkMzN2NW4zdnZqNmpzcDJidTgyODNycXh2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+# Hi there! I'm Harshit Parmar  👋
 
-- 🌱 I’m currently learning **Web Development • AI-ML • UI Designing**
+Hi there! I'm Harshit Parmar, a passionate 2nd-year BTech CS student at Acropolis Institute of Technology and Research. I combine creativity with code to craft powerful, user-centric digital experiences. Skilled in both front-end and back-end development, I strive to build seamless, innovative applications that solve real-world problems and leave a lasting impact.
 
-- 👨‍💻 All of my projects are available at [harshitparmar.xyz](harshitparmar.xyz)
+**🚀 Skills at a Glance:**<br>
+- Full Stack Development (MERN)
+- UI/UX Design: Figma and responsive design principles
+- Front-End Development: Expertise in React, HTML/CSS, and Tailwind with good sense of design
+- Graphic Design : Skilled in Corel Draw x7, Photoshop, Canva
+- Public Speaking & Mentorship: Actively engaged in mentoring peers
 
-- 💬 Ask me about **React • Express • Mongo DB • Figma**
+Let's connect and create something amazing! 🚀✨
 
-- 📫 How to reach me **parmarharshit441@gmail.com**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=0366d6&center=true&vCenter=true&random=false&width=450&height=100&lines=Full+Stack+Web+Developer;Graphic+Designer;UI+%2F+UX)](https://git.io/typing-svg)
 
-- ⚡ Fun fact **Nothing**
+```Programming Languages```
 
-<h3 align="left">Connect with me:</h3>
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,cpp,c&theme=light)](https://skills.thijs.gg)
+
+```Front-End Technologies```
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,materialui,bootstrap&theme=light)](https://skills.thijs.gg)
+
+```Back-End Technologies```
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,express&theme=light)](https://skills.thijs.gg)
+
+```Databases```
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skills.thijs.gg)
+
+```Tools & Platforms```
+
+[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,replit,vite,md,git,github,postman,netlify,vercel,aws,gcp,figma&theme=light)](https://skills.thijs.gg)
+
+---
+
+## 🏢 Work Experiences
+
+- #### Web Developer at Google Developers Group AITR
+  ```Sep 2024 - Present```
+  
+  Developed web projects and collaborated with team members to create impactful solutions for the student community using React.js and Tailwind CSS.
+
+- #### Freelance Graphic Designer at [Upwork](https://upwork.com/) and [Freelancer](https://www.freelancer.in)
+  ```Sep 2023 - Present```
+
+  Designed engaging visuals and marketing materials for clients, focusing on creative solutions and brand identity.
+
+<h4>🌐 Connect with Me:</h4>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harshit-parmar-47253b282/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/harxhit_rathore/profilecard/?igsh=MWQwaWJjYjBseWxpOQ==)
+
+
+---
+
+### 📊 GitHub Stats
+
 <p align="left">
-<a href="https://linkedin.com/in/harshit parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit parmar" height="30" width="40" /></a>
+   <a href="https://github.com/Harshit-Parmar555">
+        <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Harshit-Parmar555&theme=radical&border_radius=2.5"/>
+   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://github.com/Harshit-Parmar555">
+        <img alt="GitHub Stats" src="https://readme-stats.warengonzaga.com/api?username=Harshit-Parmar555&show_icons=true&count_private=true&theme=radical" width="400px"/>
+</a>
+
+<a href="https://github.com/Harshit-Parmar555">
+        <img alt="Top Languages" src="https://readme-stats.warengonzaga.com/api/top-langs?username=Harshit-Parmar555&layout=compact&theme=radical" width="400px"/>
+</a>
+</p>
+
+---
+  
