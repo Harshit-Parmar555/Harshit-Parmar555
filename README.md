@@ -17,11 +17,11 @@ Let's connect and create something amazing! 🚀✨
 
 ```Programming Languages```
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,cpp,c&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,cpp,c&theme=light)](https://skills.thijs.gg)
 
 ```Front-End Technologies```
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,materialui,bootstrap&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind,materialui,bootstrap,shadcn&theme=light)](https://skills.thijs.gg)
 
 ```Back-End Technologies```
 
@@ -33,7 +33,7 @@ Let's connect and create something amazing! 🚀✨
 
 ```Tools & Platforms```
 
-[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,replit,vite,md,git,github,postman,netlify,vercel,aws,gcp,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,vite,git,github,postman,netlify,vercel,aws,gcp,figma&theme=light)](https://skills.thijs.gg)
 
 ---
 
